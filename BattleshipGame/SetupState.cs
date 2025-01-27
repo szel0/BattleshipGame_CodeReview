@@ -1,4 +1,6 @@
-﻿namespace BattleshipGame
+﻿// review
+
+namespace BattleshipGame
 {
     internal class SetupState : GameState
     {
